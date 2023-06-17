@@ -18,7 +18,7 @@
     + git push origin <tên nhánh>
 
 - Trộn nhánh develop vào merge:
-    - Trên develop commit vài cái kiểu merge1
+    - Trên develop commit vài cái kiểu merge1, merge2
 
 - Hợp nhánh develop vào nhánh main sử dụng rebase
     + trên nhánh develop commit vài commit kiểu rebase 1, rebase 2, rebase 3
