@@ -17,6 +17,7 @@
     + git checkout <tên nhánh>
     + git push origin <tên nhánh>
 
+
 - Hợp nhánh develop vào nhánh main sử dụng rebase
     + trên nhánh develop commit vài commit kiểu rebase 1, rebase 2, rebase 3
     + switch sang nhánh main và gõ lệnh git rebase develop => lúc này các commit rebase 1, rebase 2, rebase 3 cũng sẽ xuất hiện trên git log của nhánh main
