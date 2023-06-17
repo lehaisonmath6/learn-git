@@ -11,4 +11,3 @@
 - Khi code lỗi mà muốn trở về trạng thái commit gần nhất (trường hợp đã gõ lệnh git commmit) thì dùng các lệnh sau:
     + git log (để xem danh sách commit)
     + git revert <tên commit hash gần nhất>
-- Khi code lỗi mà muốn trở về trạng thái commmit gần nhất (trường hợp đã gõ lện git push) thì dùng tương tự như bên trên
