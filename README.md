@@ -15,3 +15,4 @@
     + git branch <tên nhánh>
     + git branch -a
     + git checkout <tên nhánh>
+    + git push origin <tên nhánh>
