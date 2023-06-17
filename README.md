@@ -18,4 +18,4 @@
     + git push origin <tên nhánh>
 
 - Hợp nhánh develop vào nhánh main sử dụng rebase
-    + trên nhánh develop commit vài commit kiểu rebase 1, rebase 2
+    + trên nhánh develop commit vài commit kiểu rebase 1, rebase 2, rebase 3
