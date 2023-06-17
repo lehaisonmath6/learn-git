@@ -16,3 +16,6 @@
     + git branch -a
     + git checkout <tên nhánh>
     + git push origin <tên nhánh>
+
+- Hợp nhánh develop vào nhánh main sử dụng rebase
+    + 
