@@ -11,3 +11,7 @@
 - Khi code lỗi mà muốn trở về trạng thái commit gần nhất (trường hợp đã gõ lệnh git commmit) thì dùng các lệnh sau:
     + git log (để xem danh sách commit)
     + git revert <tên commit hash gần nhất>
+- Tạo một nhánh mới từ nhánh hiện tại, xem danh sách nhánh và chuyển sang nhánh mới, push nhánh lên github
+    + git branch <tên nhánh>
+    + git branch -a
+    + git checkout <tên nhánh>
