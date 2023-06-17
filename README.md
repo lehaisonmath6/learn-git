@@ -26,3 +26,4 @@
     + switch sang nhánh main và gõ lệnh git rebase develop => lúc này các commit rebase 1, rebase 2, rebase 3 cũng sẽ xuất hiện trên git log của nhánh main
 
 => Tôi thêm tính năng 1 vào develop
+=> Thêm tính năng 2 vào develop
